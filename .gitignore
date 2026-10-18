@@ -1,0 +1,5 @@
+运行产物
+pycache/ *.pyc *.log .DS_Store
+
+数据（含原文片段，版权内容，不入库）
+*.db *.sqlite *.sqlite3
